@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/piyush-kulkarni-54800225b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kulkarni" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/probie_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="probie_17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/pjkkulkarnipiyu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyush kulkarni" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pjkkulkar7rjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pjkkulkar7rjp" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/probie17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="probie17" height="30" width="40" /></a> -->
 
-<a href="https://auth.geeksforgeeks.org/user/pjkkulkar7rjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pjkkulkar7rjp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
